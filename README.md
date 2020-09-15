@@ -8,6 +8,6 @@ pré-réquis:
 
 - avoir un IDE (IntelliJ ou autres)
 
-- importer le projet et exécuter la classe de test OrdersServiceTest pour s'assurer que les tests s'executent bien
+- cloner le projet sur votre PC et exécuter la classe de test OrdersServiceTest pour s'assurer que les tests s'executent bien
 
 - avoir Teams d'installer (si non on utilisera le client web qui devrait faire l'affaire)
