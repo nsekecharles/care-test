@@ -30,8 +30,8 @@ public class OrdersServiceTest {
     }
 
 
-    //4- Bon assez joué on doit aller en prod quel refacto vous proposez pour pouvoir récupérer les commandes depuis une base de données ?
+    //4- Bon assez joué on doit aller en prod quel refacto ou évolution vous proposez pour pouvoir récupérer les commandes depuis une base de données ?
 
 
-    //5- Que peut on faire pour améliorer les perfs (question optionnelle)
+    //5- Est-ce-que vous pensez qu'on pourrait avoir un problème de perf ? Si oui que peut on faire pour améliorer les perfs
 }
